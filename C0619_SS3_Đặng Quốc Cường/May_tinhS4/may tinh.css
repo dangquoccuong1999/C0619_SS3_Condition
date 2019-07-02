@@ -1,0 +1,28 @@
+button {
+    width: 97px;
+    height: 50px;
+
+}
+
+input {
+    width: 400px;
+    height: 50px;
+    margin-top: 41px;
+    margin-left: 35px;
+    text-align: right;
+}
+
+#trong_khung {
+    margin-top: 21px;
+    background-color: darkgrey;
+    margin-left: 35px
+}
+#khung{
+    background-color: darkgrey;
+    width: 475px;
+    height: 411px;
+}
+button:hover{
+    background-color: antiquewhite;
+    transition-delay: 0.15s;
+}
